@@ -18,6 +18,7 @@ cenv/
 
 # other stuff to ignore
 .vscode
+pa-court-info-service-key.json
 
 #test files
 allegheny_today_cases.csv
