@@ -1,0 +1,39 @@
+# ignore all .pdf and .txt files
+*.txt
+*.pdf
+
+# ignore daily county .csv files
+Alleghenydockets.csv
+Beaverdockets.csv
+Butlerdockets.csv
+Fayettedockets.csv
+Greenedockets.csv
+Washingtondockets.csv
+Westmorelanddockets.csv
+
+# environment
+.venv
+venv/
+cenv/
+
+# other stuff to ignore
+.vscode
+
+#test files
+allegheny_today_cases.csv
+allegheny_today_cases2.csv
+automation.bat
+example.png
+getdockets.ipynb
+notable.txt
+output.txt
+quickstart.py
+serviceaccounttest.py
+tempfile.pdf
+tempfile2.pdf
+test.ipynb
+test.py
+testfile1.pdf
+testfile2.pdf
+testpage.txt
+testpage2.txt
